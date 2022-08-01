@@ -10,7 +10,7 @@ https://github.com/cami-la/academia-digital
 
 ## Tecnologia Utilizadas
 
-Java 11 , Maven, Spring Web, Spring Data JPA, MySQL Driver, H2, JUnit, MockMVC, Hibernate Validator, Lombok, IntelliJ IDEA e Postman.
+Java 11 , Maven, Spring Web, Spring Data JPA, MySQL Driver, Hibernate Validator, Lombok, IntelliJ IDEA e Postman.
 
 ## Considerações
 
